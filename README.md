@@ -2,7 +2,8 @@
 
 This project visualizes global seasonal daylight variations and sun cycles using **Power BI**. It uses a dataset of countries with their **sunrise, sunset times, day length**, and **seasonal daylight durations**. The dashboard helps in understanding how daylight and seasons vary by location across the world.
 
-![Dashboard Preview](./screenshot.png)
+![Dashboard Preview](![Worldseasons_page-0001](https://github.com/user-attachments/assets/def2e89d-543e-43d9-9ff8-a758781a0ba3)
+)
 
 ---
 
